@@ -1,0 +1,22 @@
+C:\Users\Пользователь\source\repos\laba3.8\laba3.8\bin\Debug\netcoreapp3.0\laba3.8.exe
+C:\Users\Пользователь\source\repos\laba3.8\laba3.8\bin\Debug\netcoreapp3.0\laba3.8.deps.json
+C:\Users\Пользователь\source\repos\laba3.8\laba3.8\bin\Debug\netcoreapp3.0\laba3.8.runtimeconfig.json
+C:\Users\Пользователь\source\repos\laba3.8\laba3.8\bin\Debug\netcoreapp3.0\laba3.8.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\laba3.8\laba3.8\bin\Debug\netcoreapp3.0\laba3.8.dll
+C:\Users\Пользователь\source\repos\laba3.8\laba3.8\bin\Debug\netcoreapp3.0\laba3.8.pdb
+C:\Users\Пользователь\source\repos\laba3.8\laba3.8\obj\Debug\netcoreapp3.0\laba3.8.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\laba3.8\laba3.8\obj\Debug\netcoreapp3.0\laba3.8.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\laba3.8\laba3.8\obj\Debug\netcoreapp3.0\laba3.8.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\laba3.8\laba3.8\obj\Debug\netcoreapp3.0\laba3.8.dll
+C:\Users\Пользователь\source\repos\laba3.8\laba3.8\obj\Debug\netcoreapp3.0\laba3.8.pdb
+C:\Users\Пользователь\source\repos\laba 3\laba-3\laba3.8\laba3.8\bin\Debug\netcoreapp3.0\laba3.8.exe
+C:\Users\Пользователь\source\repos\laba 3\laba-3\laba3.8\laba3.8\bin\Debug\netcoreapp3.0\laba3.8.deps.json
+C:\Users\Пользователь\source\repos\laba 3\laba-3\laba3.8\laba3.8\bin\Debug\netcoreapp3.0\laba3.8.runtimeconfig.json
+C:\Users\Пользователь\source\repos\laba 3\laba-3\laba3.8\laba3.8\bin\Debug\netcoreapp3.0\laba3.8.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\laba 3\laba-3\laba3.8\laba3.8\bin\Debug\netcoreapp3.0\laba3.8.dll
+C:\Users\Пользователь\source\repos\laba 3\laba-3\laba3.8\laba3.8\bin\Debug\netcoreapp3.0\laba3.8.pdb
+C:\Users\Пользователь\source\repos\laba 3\laba-3\laba3.8\laba3.8\obj\Debug\netcoreapp3.0\laba3.8.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\laba 3\laba-3\laba3.8\laba3.8\obj\Debug\netcoreapp3.0\laba3.8.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\laba 3\laba-3\laba3.8\laba3.8\obj\Debug\netcoreapp3.0\laba3.8.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\laba 3\laba-3\laba3.8\laba3.8\obj\Debug\netcoreapp3.0\laba3.8.dll
+C:\Users\Пользователь\source\repos\laba 3\laba-3\laba3.8\laba3.8\obj\Debug\netcoreapp3.0\laba3.8.pdb

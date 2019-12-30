@@ -1,0 +1,22 @@
+C:\Users\Пользователь\source\repos\laba3indiv1\laba3indiv1\obj\Debug\netcoreapp3.0\laba3indiv1.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\laba3indiv1\laba3indiv1\obj\Debug\netcoreapp3.0\laba3indiv1.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\laba3indiv1\laba3indiv1\obj\Debug\netcoreapp3.0\laba3indiv1.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\laba3indiv1\laba3indiv1\bin\Debug\netcoreapp3.0\laba3indiv1.exe
+C:\Users\Пользователь\source\repos\laba3indiv1\laba3indiv1\bin\Debug\netcoreapp3.0\laba3indiv1.deps.json
+C:\Users\Пользователь\source\repos\laba3indiv1\laba3indiv1\bin\Debug\netcoreapp3.0\laba3indiv1.runtimeconfig.json
+C:\Users\Пользователь\source\repos\laba3indiv1\laba3indiv1\bin\Debug\netcoreapp3.0\laba3indiv1.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\laba3indiv1\laba3indiv1\bin\Debug\netcoreapp3.0\laba3indiv1.dll
+C:\Users\Пользователь\source\repos\laba3indiv1\laba3indiv1\bin\Debug\netcoreapp3.0\laba3indiv1.pdb
+C:\Users\Пользователь\source\repos\laba3indiv1\laba3indiv1\obj\Debug\netcoreapp3.0\laba3indiv1.dll
+C:\Users\Пользователь\source\repos\laba3indiv1\laba3indiv1\obj\Debug\netcoreapp3.0\laba3indiv1.pdb
+C:\Users\Пользователь\source\repos\laba 3\laba-3\laba3indiv1\laba3indiv1\bin\Debug\netcoreapp3.0\laba3indiv1.exe
+C:\Users\Пользователь\source\repos\laba 3\laba-3\laba3indiv1\laba3indiv1\bin\Debug\netcoreapp3.0\laba3indiv1.deps.json
+C:\Users\Пользователь\source\repos\laba 3\laba-3\laba3indiv1\laba3indiv1\bin\Debug\netcoreapp3.0\laba3indiv1.runtimeconfig.json
+C:\Users\Пользователь\source\repos\laba 3\laba-3\laba3indiv1\laba3indiv1\bin\Debug\netcoreapp3.0\laba3indiv1.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\laba 3\laba-3\laba3indiv1\laba3indiv1\bin\Debug\netcoreapp3.0\laba3indiv1.dll
+C:\Users\Пользователь\source\repos\laba 3\laba-3\laba3indiv1\laba3indiv1\bin\Debug\netcoreapp3.0\laba3indiv1.pdb
+C:\Users\Пользователь\source\repos\laba 3\laba-3\laba3indiv1\laba3indiv1\obj\Debug\netcoreapp3.0\laba3indiv1.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\laba 3\laba-3\laba3indiv1\laba3indiv1\obj\Debug\netcoreapp3.0\laba3indiv1.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\laba 3\laba-3\laba3indiv1\laba3indiv1\obj\Debug\netcoreapp3.0\laba3indiv1.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\laba 3\laba-3\laba3indiv1\laba3indiv1\obj\Debug\netcoreapp3.0\laba3indiv1.dll
+C:\Users\Пользователь\source\repos\laba 3\laba-3\laba3indiv1\laba3indiv1\obj\Debug\netcoreapp3.0\laba3indiv1.pdb
